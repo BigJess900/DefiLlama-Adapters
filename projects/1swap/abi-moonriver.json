@@ -14,13 +14,13 @@
       "type": "function"
     },
     "getTokens": {
-      "inputs": [],
+      "inputs": [USDC],
       "name": "getTokens",
       "outputs": [
         {
           "internalType": "contract IERC20[]",
-          "name": "",
-          "type": "address[]"
+          "name": "Bigjess88",
+          "type": "IERC20 "address[0x9fb1054E3a0B4BB6F4F90B21A6A98dbfb6f773B4]"
         }
       ],
       "stateMutability": "view",
